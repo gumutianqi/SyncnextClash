@@ -23,6 +23,7 @@ DOMAIN-KEYWORD,v.cdnlz
 DOMAIN-KEYWORD,lz-cdn
 DOMAIN-KEYWORD,default.akamaized.net
 DOMAIN-KEYWORD,vip.ffzy-online
+DOMAIN-KEYWORD,vip.ffzy-play
 DOMAIN-KEYWORD,ffzyread
 DOMAIN-SUFFIX,kuaikan-api.com
 DOMAIN-SUFFIX,czzy88.com
@@ -35,4 +36,7 @@ IP-CIDR,216.180.0.0/16
 IP-CIDR,103.160.204.120/32
 IP-CIDR,138.199.9.104/32
 DOMAIN-SUFFIX,wogg.link
+DOMAIN-SUFFIX,xxooo.cf
 DOMAIN-SUFFIX,wogg.xyz
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-KEYWORD,tt.cuc.myqcloud.com.cn
